@@ -444,9 +444,9 @@ class Main:
 			
     
 	def old(self):
-		x = 111111111
-		xx = 999999999
-		idx = "10000000" 
+		x = 111111
+		xx = 999999
+		idx = "1" 
 		os.system('clear');print(logo)
 		limit = int(input(" \n\033[0;73m[+]\033[0;95m FACEBOOK ACCOUNT CRACKER - LIMIT 80,000: "))
 		try:
